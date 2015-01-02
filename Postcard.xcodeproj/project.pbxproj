@@ -13,6 +13,8 @@
 		1B64036D1A55366400444229 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B64036C1A55366400444229 /* Images.xcassets */; };
 		1B6403701A55366400444229 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1B64036E1A55366400444229 /* LaunchScreen.xib */; };
 		1B64037C1A55366400444229 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B64037B1A55366400444229 /* PostcardTests.swift */; };
+		1B6403861A55400700444229 /* dubai2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1B6403851A55400700444229 /* dubai2.jpg */; };
+		1B6403881A5544E600444229 /* dubai1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1B6403871A5544E600444229 /* dubai1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		1B6403751A55366400444229 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B64037A1A55366400444229 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1B64037B1A55366400444229 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		1B6403851A55400700444229 /* dubai2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dubai2.jpg; sourceTree = "<group>"; };
+		1B6403871A5544E600444229 /* dubai1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dubai1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		1B6403631A55366400444229 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1B6403871A5544E600444229 /* dubai1.jpg */,
+				1B6403851A55400700444229 /* dubai2.jpg */,
 				1B6403641A55366400444229 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,7 +198,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1B6403861A55400700444229 /* dubai2.jpg in Resources */,
 				1B64036B1A55366400444229 /* Main.storyboard in Resources */,
+				1B6403881A5544E600444229 /* dubai1.jpg in Resources */,
 				1B6403701A55366400444229 /* LaunchScreen.xib in Resources */,
 				1B64036D1A55366400444229 /* Images.xcassets in Resources */,
 			);
